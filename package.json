@@ -1,18 +1,10 @@
-{
-  "name": "my-app",
-  "version": "0.1.0",
-  "private": true,
-  "homepage": "https://sharad-banga.github.io/bgChanger-React/",
-  "dependencies": {
-    // dependencies
-  }
-}
 
 
 
 {
   "name": "04bgchanger",
   "private": true,
+  "homepage": "https://sharad-banga.github.io/bgChanger-React/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
